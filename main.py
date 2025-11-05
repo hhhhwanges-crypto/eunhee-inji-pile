@@ -5,4 +5,4 @@ b=st.selectbox('좋아하는 음식이 뭐 세요',['토마토 파스타','크�
 if st.button('인사말 생성'):
   st.info(a+'님 ㅎㅇ')
   st.warning('b+가 맞긴해 레전드 배고픔')
-  st.error('반가워요')
+  st.error('반가띠니')
