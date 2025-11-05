@@ -1,5 +1,6 @@
 import streamlit as st
 st.title('나의 첫 웹 사이트 만들기') 
+st.selectbox('좋아하는 음식이 뭐 세요'),['토마토 파스타','크림파스타','로재 파스타']
 a=st.text_input('니이름이 뭐임?')
 if st.button('인사말 생성'):
   st.write(a+'님 ㅎㅇ')
