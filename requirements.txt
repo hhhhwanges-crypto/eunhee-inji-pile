@@ -1,7 +1,7 @@
-streamlit>=1.20
-folium>=0.14.0
-streamlit-folium>=0.14.0
-pandas>=1.5
-streamlit>=1.25
-pandas>=1.5
-plotly>=5.10
+your-project/
+│ streamlit_app.py
+│ eunseoinjiSSUNI.csv
+│
+└── requirements/
+     └── requirements.txt
+
