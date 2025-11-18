@@ -1,7 +1,5 @@
-your-project/
-│ streamlit_app.py
-│ eunseoinjiSSUNI.csv
-│
-└── requirements/
-     └── requirements.txt
+streamlit
+pandas
+plotly
+
 
